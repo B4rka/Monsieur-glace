@@ -1,5 +1,11 @@
 @import url('_contact.css');
 @import url('_map.css');
+@import url('_footer.css');
+@import url('_header.css');
+
+:root {
+    --primary-font-colour : #f76c6c;
+}
 
 * {
     box-sizing: content-box;
