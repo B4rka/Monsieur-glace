@@ -15,6 +15,16 @@
 <body>
     {% block content %}{% endblock %}
     {% block javascript %}{% endblock %}
+
+    <section class="main-contact-form">
+        {% include 'Include/_contact.html.twig' %}
+    </section>
+    <section class='main-map'>
+        {% include 'Include/_map.html.twig' %}
+    </section>
+    <footer>
+        {% include 'Include/_footer.html.twig' %}
+    </footer>
 </body>
 </html>
 

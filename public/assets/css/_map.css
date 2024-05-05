@@ -1,0 +1,9 @@
+.main-map h1 {
+    text-align: center;
+}
+
+.maps-widget {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

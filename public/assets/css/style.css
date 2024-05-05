@@ -1,3 +1,11 @@
+@import url('_contact.css');
+@import url('_map.css');
+
+* {
+    box-sizing: content-box;
+    /* margin: 0; */
+}
+
 body {
     color: #f76c6c;
 }
